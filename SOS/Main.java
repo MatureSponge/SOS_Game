@@ -13,6 +13,7 @@ class Main {
     Scanner input = new Scanner(System.in);
 
     System.out.println("Welcome to SOS!\n");
+    System.out.println("This is a game of SOS, where you can play against the computer.\n");
 
     //get the size of the grid
     System.out.println("What size Grid (nxn)?");
